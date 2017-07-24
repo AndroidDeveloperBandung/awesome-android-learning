@@ -2,6 +2,8 @@
 
 > A curated list of Android related articles available in English or Bahasa 
 
+Your contribution is very encouraged and will highly appreciated! Every commit matters! 💪💪
+
 ---
 
 ## Legends
