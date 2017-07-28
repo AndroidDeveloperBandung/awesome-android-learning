@@ -8,21 +8,26 @@ Your contribution is very encouraged and will highly appreciated! Every commit m
 
 ## Legends
 
+```
 🇬🇧 Bahasa Inggris
-
 🇮🇩 Bahasa Indonesia
-
 🌟 Dokumentasi Resmi dari [developer.android.com](developer.android.com)
+🐙 Supporting Code { Repo / Snippet } link 
+```
 
 ## Contents
 
 - [Fundamental](#fundamental)
- - [Lifecycle](#lifecycle)
+    - [Lifecycle](#lifecycle)
+    - [Android Components](#android-components)
 - [RxJava](#rxjava)
 - [Dependecy Injection](#dependency-injection)
 - [Design Pattern](#design-pattern)
+- [FCM](#fcm)
  
 ## Fundamental 
+
+### Android Components
 
 ### Lifecycle
 
@@ -30,3 +35,9 @@ Your contribution is very encouraged and will highly appreciated! Every commit m
 - [Complete Android Fragment & Activity Lifecycle](https://github.com/xxv/android-lifecycle) 🇬🇧
 
 ## RxJava
+
+- [Github Link](https://github.com/ReactiveX/RxJava) 🐙
+
+## FCM
+
+- [How to Handle FCM Notification in Background](https://medium.com/@shayan.ta69/how-to-handle-fcm-notification-in-backgrounded-android-applications-29229c4f9975)
