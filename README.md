@@ -24,6 +24,7 @@ Your contribution is very encouraged and will highly appreciated! Every commit m
 - [Dependecy Injection](#dependency-injection)
 - [Design Pattern](#design-pattern)
 - [FCM](#fcm)
+- [Kotlin](#kotlin)
  
 ## Fundamental 
 
@@ -41,3 +42,7 @@ Your contribution is very encouraged and will highly appreciated! Every commit m
 ## FCM
 
 - [How to Handle FCM Notification in Background](https://medium.com/@shayan.ta69/how-to-handle-fcm-notification-in-backgrounded-android-applications-29229c4f9975)
+
+## Kotlin
+
+- [100+ Resource To Learn Kotlin The Right Way](https://superkotlin.com/resources-learn-kotlin/)
