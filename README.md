@@ -57,5 +57,5 @@ Your contribution is very encouraged and will highly appreciated! Every commit m
 
 ## Kotlin
 
-- [Collection of Usefull Kotlin Resources](https://kotlin.link/) 🇬🇧
+- [Collection of Useful Kotlin Resources](https://kotlin.link/) 🇬🇧
 - [100+ Resource To Learn Kotlin The Right Way](https://superkotlin.com/resources-learn-kotlin/) 🇬🇧
