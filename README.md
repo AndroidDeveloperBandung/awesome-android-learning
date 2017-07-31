@@ -1,6 +1,6 @@
-## Awesome Android Articles
+## Awesome Android Learning
 
-> A curated list of Android related articles available in English or Bahasa 
+> A curated list of Android related articles and resources available in English or Bahasa 
 
 Your contribution is very encouraged and will highly appreciated! Every commit matters! 💪💪
 
@@ -20,11 +20,14 @@ Your contribution is very encouraged and will highly appreciated! Every commit m
 - [Fundamental](#fundamental)
     - [Lifecycle](#lifecycle)
     - [Android Components](#android-components)
+- [Networking](#networking)    
+- [Material Design](#material-design)   
 - [RxJava](#rxjava)
 - [Dependecy Injection](#dependency-injection)
 - [Design Pattern](#design-pattern)
 - [FCM](#fcm)
 - [Kotlin](#kotlin)
+- [Publishing](#publishing)
  
 ## Fundamental 
 
@@ -39,9 +42,15 @@ Your contribution is very encouraged and will highly appreciated! Every commit m
 - [The Activity Lifecycle](https://developer.android.com/guide/components/activities/activity-lifecycle.html) 🇬🇧 🌟
 - [Complete Android Fragment & Activity Lifecycle](https://github.com/xxv/android-lifecycle) 🇬🇧
 
+## Networking
+
+- [Retrofit Getting Started](https://futurestud.io/tutorials/retrofit-getting-started-and-android-client) 🇬🇧
+
+## Material Design
+
 ## RxJava
 
-- [Github Link](https://github.com/ReactiveX/RxJava) 🐙
+- [RxJava Github Link](https://github.com/ReactiveX/RxJava) 🐙
 - [Grokking RxJava 1.x Part 1: The Basic](http://blog.danlew.net/2014/09/15/grokking-rxjava-part-1/) 🇬🇧
 - [Grokking RxJava 1.x Part 2: Operator, Operator](http://blog.danlew.net/2014/09/22/grokking-rxjava-part-2/) 🇬🇧
 - [Grokking RxJava 1.x Part 3: Reactive with Benefits](http://blog.danlew.net/2014/09/30/grokking-rxjava-part-3/) 🇬🇧
@@ -59,3 +68,17 @@ Your contribution is very encouraged and will highly appreciated! Every commit m
 
 - [Collection of Useful Kotlin Resources](https://kotlin.link/) 🇬🇧
 - [100+ Resource To Learn Kotlin The Right Way](https://superkotlin.com/resources-learn-kotlin/) 🇬🇧
+
+## Publishing
+
+- [How to Upload Library to Manven or Jcenter as Dependency](https://inthecheesefactory.com/blog/how-to-upload-library-to-jcenter-maven-central-as-dependency/en) 🇬🇧
+
+--- 
+
+## How to contribute?
+
+1. Simply create an issue on Github for a link that you think deserve to be included in here!
+2. Pull request! It will be always prioritized than the first approach
+3. Create supporting code or snippet! Talk is cheap, we should show them some code! 🐙
+
+
