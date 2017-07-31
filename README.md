@@ -4,6 +4,8 @@
 
 Your contribution is very encouraged and will highly appreciated! Every commit matters! 💪💪
 
+See [how to contribue](#how-to-contribute)
+
 ---
 
 ## Legends
