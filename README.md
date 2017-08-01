@@ -75,6 +75,9 @@ See [how to contribue](#how-to-contribute)
 
 - [How to Upload Library to Manven or Jcenter as Dependency](https://inthecheesefactory.com/blog/how-to-upload-library-to-jcenter-maven-central-as-dependency/en) 🇬🇧
 
+## Bluetooth Low Energi
+- [Bluetooth Low Energy on Android, Part 1](https://www.bignerdranch.com/blog/bluetooth-low-energy-part-1/?utm_source=Android+Weekly&utm_campaign=7ece125827-android-weekly-268&utm_medium=email&utm_term=0_4eb677ad19-7ece125827-338084081) 🇬🇧
+
 --- 
 
 ## How to contribute?
