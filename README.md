@@ -9,11 +9,12 @@ See [how to contribue](#how-to-contribute)
 ---
 
 ## Legends
-
-- 🇬🇧 Bahasa Inggris
-- 🇮🇩 Bahasa Indonesia
-- 🌟 Dokumentasi Resmi dari [developer.android.com](developer.android.com)
-- 🐙 Supporting Code [ Repo / Code Snippet ] link
+```
+🇬🇧 Bahasa Inggris
+🇮🇩 Bahasa Indonesia
+🌟 Dokumentasi Resmi dari **developer.android.com**
+🐙 Supporting Code [ Repo / Code Snippet ] link
+```
 
 ## Contents
 
