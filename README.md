@@ -12,7 +12,7 @@ See [how to contribue](#how-to-contribute)
 ```
 🇬🇧 Bahasa Inggris
 🇮🇩 Bahasa Indonesia
-🌟 Dokumentasi Resmi dari **developer.android.com**
+🌟 Dokumentasi Resmi dari developer.android.com
 🐙 Supporting Code [ Repo / Code Snippet ] link
 ```
 
