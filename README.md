@@ -62,6 +62,10 @@ See [how to contribue](#how-to-contribute)
 ## Design Pattern
 
 - [Google's Sample for Android Architectures](https://github.com/googlesamples/android-architecture) 🐙
+- Architecture Component
+	- [StylingAndroid - Lifecycle Component](https://blog.stylingandroid.com/architecture-components-lifecycle/) 🇬🇧
+	- [StylingAndroid - LiveData](https://blog.stylingandroid.com/architecture-components-livedata/) 🇬🇧
+	- [StylingAndroid - ViewModel](https://blog.stylingandroid.com/architecture-components-viewmodel/) 🇬🇧
 
 ## FCM
 
