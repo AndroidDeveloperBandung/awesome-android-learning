@@ -1,6 +1,6 @@
 ## Awesome Android Learning
 
-> A curated list of Android related articles and resources available in English or Bahasa 
+> A curated list of Android related articles and resources available in English or Bahasa
 
 Your contribution is very encouraged and will highly appreciated! Every commit matters! 💪💪
 
@@ -10,12 +10,10 @@ See [how to contribue](#how-to-contribute)
 
 ## Legends
 
-```
-🇬🇧 Bahasa Inggris
-🇮🇩 Bahasa Indonesia
-🌟 Dokumentasi Resmi dari [developer.android.com](developer.android.com)
-🐙 Supporting Code { Repo / Snippet } link 
-```
+- 🇬🇧 Bahasa Inggris
+- 🇮🇩 Bahasa Indonesia
+- 🌟 Dokumentasi Resmi dari [developer.android.com](developer.android.com)
+- 🐙 Supporting Code [ Repo / Code Snippet ] link
 
 ## Contents
 
@@ -31,8 +29,8 @@ See [how to contribue](#how-to-contribute)
 - [Bluetooth](#bluetooth)
 - [Kotlin](#kotlin)
 - [Publishing](#publishing)
- 
-## Fundamental 
+
+## Fundamental
 
 ### Android Components
 
@@ -54,6 +52,7 @@ See [how to contribue](#how-to-contribute)
 ## RxJava
 
 - [RxJava Github Link](https://github.com/ReactiveX/RxJava) 🐙
+- [Wrapping your imperative brain around functional programming in RxJava](https://android.jlelse.eu/how-to-wrap-your-imperative-brain-around-functional-reactive-programming-in-rxjava-91ac89a4eccf) 🇬🇧
 - [Grokking RxJava 1.x Part 1: The Basic](http://blog.danlew.net/2014/09/15/grokking-rxjava-part-1/) 🇬🇧
 - [Grokking RxJava 1.x Part 2: Operator, Operator](http://blog.danlew.net/2014/09/22/grokking-rxjava-part-2/) 🇬🇧
 - [Grokking RxJava 1.x Part 3: Reactive with Benefits](http://blog.danlew.net/2014/09/30/grokking-rxjava-part-3/) 🇬🇧
@@ -66,6 +65,11 @@ See [how to contribue](#how-to-contribute)
 	- [StylingAndroid - Lifecycle Component](https://blog.stylingandroid.com/architecture-components-lifecycle/) 🇬🇧
 	- [StylingAndroid - LiveData](https://blog.stylingandroid.com/architecture-components-livedata/) 🇬🇧
 	- [StylingAndroid - ViewModel](https://blog.stylingandroid.com/architecture-components-viewmodel/) 🇬🇧
+- MVVM Architecture
+    - [Android Repository Design Pattern](https://medium.com/@krzychukosobudzki/repository-design-pattern-bc490b256006) 🇬🇧
+    - [Android MVVM Architecture - Part 1](https://medium.com/upday-devs/android-architecture-patterns-part-1-model-view-controller-3baecef5f2b6) 🇬🇧
+    - [Android MVVM Architecture - Part 2](https://medium.com/upday-devs/android-architecture-patterns-part-2-model-view-presenter-8a6faaae14a5) 🇬🇧
+    - [Android MVVM Architecture - Part 3](https://medium.com/upday-devs/android-architecture-patterns-part-3-model-view-viewmodel-e7eeee76b73b) 🇬🇧
 
 ## FCM
 
@@ -85,11 +89,12 @@ See [how to contribue](#how-to-contribute)
 
 - [How to Upload Library to Manven or Jcenter as Dependency](https://inthecheesefactory.com/blog/how-to-upload-library-to-jcenter-maven-central-as-dependency/en) 🇬🇧
 
---- 
+---
 
 ## Other Resources
 
 - [Realm Academy](https://academy.realm.io/section/android)
+- [Android Arsenal](https://android-arsenal.com/)
 
 ---
 
@@ -98,5 +103,3 @@ See [how to contribue](#how-to-contribute)
 1. Simply create an issue on Github for a link that you think deserve to be included in here!
 2. Pull request! It will be always prioritized than the first approach
 3. Create supporting code or snippet! Talk is cheap, we should show them some code! 🐙
-
-
