@@ -30,7 +30,9 @@ See [how to contribue](#how-to-contribute)
 - [FCM](#fcm)
 - [Bluetooth](#bluetooth)
 - [Kotlin](#kotlin)
+- [Development tools](#development-tools)
 - [Publishing](#publishing)
+
  
 ## Fundamental 
 
@@ -80,6 +82,10 @@ See [how to contribue](#how-to-contribute)
 
 - [Collection of Useful Kotlin Resources](https://kotlin.link/) 🇬🇧
 - [100+ Resource To Learn Kotlin The Right Way](https://superkotlin.com/resources-learn-kotlin/) 🇬🇧
+
+## Development Tools
+
+- [Cara melakukan debugging apps android menggunakan Wi-Fi](https://aliqornanblog.wordpress.com/?p=807)🇮🇩
 
 ## Publishing
 
