@@ -70,6 +70,7 @@ See [how to contribue](#how-to-contribute)
 ## FCM
 
 - [How to Handle FCM Notification in Background](https://medium.com/@shayan.ta69/how-to-handle-fcm-notification-in-backgrounded-android-applications-29229c4f9975) 🇬🇧
+- [Handle app update notification with FirebaseRemoteConfig](https://medium.com/@sembozdemir/force-your-users-to-update-your-app-with-using-firebase-33f1e0bcec5a) 🇬🇧
 
 ## Bluetooth
 
