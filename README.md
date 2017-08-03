@@ -14,6 +14,7 @@ See [how to contribue](#how-to-contribute)
 🇮🇩 Bahasa Indonesia
 🌟 Dokumentasi Resmi dari developer.android.com
 🐙 Supporting Code [ Repo / Code Snippet ] link
+📹 Video / Include Video
 ```
 
 ## Contents
@@ -26,10 +27,12 @@ See [how to contribue](#how-to-contribute)
 - [RxJava](#rxjava)
 - [Dependecy Injection](#dependency-injection)
 - [Design Pattern](#design-pattern)
+    - [Android Architecture Component](#android-architecture-component)
+    - [MVVM Architecture](#mvvm-architecture)
 - [FCM](#fcm)
 - [Bluetooth](#bluetooth)
 - [Kotlin](#kotlin)
-- [Development tools](#development-tools)
+- [Development Tools](#development-tools)
 - [Publishing](#publishing)
 
 ## Fundamental 
@@ -51,6 +54,9 @@ See [how to contribue](#how-to-contribute)
 
 ## Material Design
 
+- [Material Design Training](https://developer.android.com/training/material/index.html) 🇬🇧 🌟
+- [Android Hive Material Design Category](https://www.androidhive.info/category/material-design/) 🇬🇧
+
 ## RxJava
 
 - [RxJava Github Link](https://github.com/ReactiveX/RxJava) 🐙
@@ -60,18 +66,26 @@ See [how to contribue](#how-to-contribute)
 - [Grokking RxJava 1.x Part 3: Reactive with Benefits](http://blog.danlew.net/2014/09/30/grokking-rxjava-part-3/) 🇬🇧
 - [Grokking RxJava 1.x Part 4: Reactive Android](http://blog.danlew.net/2014/10/08/grokking-rxjava-part-4/) 🇬🇧
 
-## Design Pattern
+## Dependency Injection
+
+- [Dependency Injection Made Simple](https://academy.realm.io/posts/daniel-lew-dependency-injection-dagger/) 🇬🇧 📹
+
+## Architecture & Design Pattern
 
 - [Google's Sample for Android Architectures](https://github.com/googlesamples/android-architecture) 🐙
-- Architecture Component
-	- [StylingAndroid - Lifecycle Component](https://blog.stylingandroid.com/architecture-components-lifecycle/) 🇬🇧
-	- [StylingAndroid - LiveData](https://blog.stylingandroid.com/architecture-components-livedata/) 🇬🇧
-	- [StylingAndroid - ViewModel](https://blog.stylingandroid.com/architecture-components-viewmodel/) 🇬🇧
-- MVVM Architecture
-    - [Android Repository Design Pattern](https://medium.com/@krzychukosobudzki/repository-design-pattern-bc490b256006) 🇬🇧
-    - [Android MVVM Architecture - Part 1](https://medium.com/upday-devs/android-architecture-patterns-part-1-model-view-controller-3baecef5f2b6) 🇬🇧
-    - [Android MVVM Architecture - Part 2](https://medium.com/upday-devs/android-architecture-patterns-part-2-model-view-presenter-8a6faaae14a5) 🇬🇧
-    - [Android MVVM Architecture - Part 3](https://medium.com/upday-devs/android-architecture-patterns-part-3-model-view-viewmodel-e7eeee76b73b) 🇬🇧
+- [Android Repository Design Pattern](https://medium.com/@krzychukosobudzki/repository-design-pattern-bc490b256006) 🇬🇧
+
+### Android Architecture Component
+
+- [StylingAndroid - Lifecycle Component](https://blog.stylingandroid.com/architecture-components-lifecycle/) 🇬🇧
+- [StylingAndroid - LiveData](https://blog.stylingandroid.com/architecture-components-livedata/) 🇬🇧
+- [StylingAndroid - ViewModel](https://blog.stylingandroid.com/architecture-components-viewmodel/) 🇬🇧
+
+### MVVM Architecture
+    
+- [Android MVVM Architecture - Part 1](https://medium.com/upday-devs/android-architecture-patterns-part-1-model-view-controller-3baecef5f2b6) 🇬🇧
+- [Android MVVM Architecture - Part 2](https://medium.com/upday-devs/android-architecture-patterns-part-2-model-view-presenter-8a6faaae14a5) 🇬🇧
+- [Android MVVM Architecture - Part 3](https://medium.com/upday-devs/android-architecture-patterns-part-3-model-view-viewmodel-e7eeee76b73b) 🇬🇧
 
 ## FCM
 
@@ -89,10 +103,11 @@ See [how to contribue](#how-to-contribute)
 
 ## Development Tools
 
-- [Cara melakukan debugging apps android menggunakan Wi-Fi](https://aliqornanblog.wordpress.com/?p=807)🇮🇩
+- [Cara melakukan debugging apps android menggunakan Wi-Fi](https://aliqornanblog.wordpress.com/?p=807) 🇮🇩
 
 ## Publishing
 
+- [Bagaimana Cara Mengecilkan APK?](https://medium.com/@abangkis/bagaimana-cara-mengecilkan-apk-d7dbd4787321) 🇮🇩
 - [How to Upload Library to Manven or Jcenter as Dependency](https://inthecheesefactory.com/blog/how-to-upload-library-to-jcenter-maven-central-as-dependency/en) 🇬🇧
 
 ---
@@ -101,6 +116,7 @@ See [how to contribue](#how-to-contribute)
 
 - [Realm Academy](https://academy.realm.io/section/android)
 - [Android Arsenal](https://android-arsenal.com/)
+- [Guides @ Codepath](https://guides.codepath.com/android)
 
 ---
 
