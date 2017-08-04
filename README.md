@@ -123,6 +123,7 @@ See [how to contribue](#how-to-contribute)
 - [Guides @ Codepath](https://guides.codepath.com/android)
 - [Daftar API Lokal Indonesia](https://github.com/farizdotid/DAFTAR-API-LOKAL-INDONESIA)
 - [Android Weekly](http://androidweekly.net/)
+- [Tutorial Point](https://www.tutorialspoint.com/android/)
 
 ---
 
