@@ -22,7 +22,8 @@ See [how to contribue](#how-to-contribute)
 - [Fundamental](#fundamental)
     - [Lifecycle](#lifecycle)
     - [Android Components](#android-components)
-- [Networking](#networking)    
+- [Networking](#networking)
+- [UX - User Experience](#user-experience)    
 - [Material Design](#material-design)   
 - [RxJava](#rxjava)
 - [Dependecy Injection](#dependency-injection)
@@ -52,6 +53,9 @@ See [how to contribue](#how-to-contribute)
 
 - [Retrofit Getting Started](https://futurestud.io/tutorials/retrofit-getting-started-and-android-client) 🇬🇧
 
+## User Experience
+- [UberUx - Entire animation stack of Uber android app ](https://github.com/mohak1712/UberUX) 🐙
+
 ## Material Design
 
 - [Material Design Training](https://developer.android.com/training/material/index.html) 🇬🇧 🌟
@@ -69,6 +73,7 @@ See [how to contribue](#how-to-contribute)
 ## Dependency Injection
 
 - [Dependency Injection Made Simple](https://academy.realm.io/posts/daniel-lew-dependency-injection-dagger/) 🇬🇧 📹
+- [Demystifying the new Dagger Android Injection API](https://proandroiddev.com/exploring-the-new-dagger-android-module-9eb6075f1a46) 🇬🇧
 
 ## Architecture & Design Pattern
 
@@ -119,6 +124,7 @@ See [how to contribue](#how-to-contribute)
 - [Guides @ Codepath](https://guides.codepath.com/android)
 - [Daftar API Lokal Indonesia](https://github.com/farizdotid/DAFTAR-API-LOKAL-INDONESIA)
 - [Android Weekly](http://androidweekly.net/)
+- [Tutorial Point](https://www.tutorialspoint.com/android/)
 
 ---
 
