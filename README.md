@@ -27,6 +27,7 @@ See [how to contribue](#how-to-contribute)
 - [Material Design](#material-design)   
 - [RxJava](#rxjava)
 - [Dependecy Injection](#dependency-injection)
+- [Job Scheduler](#job-scheduler)
 - [Design Pattern](#design-pattern)
     - [Android Architecture Component](#android-architecture-component)
     - [MVVM Architecture](#mvvm-architecture)
@@ -54,6 +55,7 @@ See [how to contribue](#how-to-contribute)
 - [Retrofit Getting Started](https://futurestud.io/tutorials/retrofit-getting-started-and-android-client) 🇬🇧
 
 ## User Experience
+
 - [UberUx - Entire animation stack of Uber android app ](https://github.com/mohak1712/UberUX) 🐙
 
 ## Material Design
@@ -74,6 +76,11 @@ See [how to contribue](#how-to-contribute)
 
 - [Dependency Injection Made Simple](https://academy.realm.io/posts/daniel-lew-dependency-injection-dagger/) 🇬🇧 📹
 - [Demystifying the new Dagger Android Injection API](https://proandroiddev.com/exploring-the-new-dagger-android-module-9eb6075f1a46) 🇬🇧
+
+## Job Scheduler
+
+- [Android Job Priority Queue Github Link](https://github.com/yigit/android-priority-jobqueue) 🐙
+- [Use Android Priority Job Queue library for your background tasks](https://solidgeargroup.com/android-priority-job-queue-background-tasks) 🇬🇧
 
 ## Architecture & Design Pattern
 
