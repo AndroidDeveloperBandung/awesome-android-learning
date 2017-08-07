@@ -31,7 +31,10 @@ See [how to contribue](#how-to-contribute)
 - [Design Pattern](#design-pattern)
     - [Android Architecture Component](#android-architecture-component)
     - [MVVM Architecture](#mvvm-architecture)
-- [FCM](#fcm)
+- [Firebase](#firebase)
+	- [Firebase Cloud Messaging](#firebase)
+	- [Firebase Remote Config](#firebase)
+	- [Firebase Performance Monitoring](#firebase)
 - [Bluetooth](#bluetooth)
 - [Kotlin](#kotlin)
 - [Development Tools](#development-tools)
@@ -99,10 +102,16 @@ See [how to contribue](#how-to-contribute)
 - [Android MVVM Architecture - Part 2](https://medium.com/upday-devs/android-architecture-patterns-part-2-model-view-presenter-8a6faaae14a5) 🇬🇧
 - [Android MVVM Architecture - Part 3](https://medium.com/upday-devs/android-architecture-patterns-part-3-model-view-viewmodel-e7eeee76b73b) 🇬🇧
 
-## FCM
+## Firebase
+### Firebase Cloud Messaging
 
 - [How to Handle FCM Notification in Background](https://medium.com/@shayan.ta69/how-to-handle-fcm-notification-in-backgrounded-android-applications-29229c4f9975) 🇬🇧
+
+### Firebase Remote Config
 - [Handle app update notification with FirebaseRemoteConfig](https://medium.com/@sembozdemir/force-your-users-to-update-your-app-with-using-firebase-33f1e0bcec5a) 🇬🇧
+
+### Firebase Performance Monitoring
+- [Firebase Performance Monitoring for Android Tip #1: Automatic Traces for All Activities](https://firebase.googleblog.com/2017/08/firebase-performance-monitoring-for.html)
 
 ## Bluetooth
 
