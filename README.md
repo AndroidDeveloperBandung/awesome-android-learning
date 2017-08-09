@@ -112,6 +112,8 @@ See [how to contribue](#how-to-contribute)
 
 - [Collection of Useful Kotlin Resources](https://kotlin.link/) 🇬🇧
 - [100+ Resource To Learn Kotlin The Right Way](https://superkotlin.com/resources-learn-kotlin/) 🇬🇧
+- [Idiomatic Kotlin. Best Practice](https://blog.philipphauer.de/idiomatic-kotlin-best-practices/) 🇬🇧
+- [Clean Code Kotlin](https://blog.philipphauer.de/clean-code-kotlin/) 🇬🇧
 
 ## Development Tools
 
