@@ -36,6 +36,7 @@ See [how to contribue](#how-to-contribute)
 	- [Firebase Remote Config](#firebase)
 	- [Firebase Performance Monitoring](#firebase)
 - [Bluetooth](#bluetooth)
+- [Testing](#testing)
 - [Kotlin](#kotlin)
 - [Development Tools](#development-tools)
 - [Publishing](#publishing)
@@ -56,6 +57,8 @@ See [how to contribue](#how-to-contribute)
 ## Networking
 
 - [Retrofit Getting Started](https://futurestud.io/tutorials/retrofit-getting-started-and-android-client) 🇬🇧
+- [Mengeksekusi CRUP REST API dengan Retrofit 2](https://farizdotid.com/tutorial-crud-rest-api-menggunakan-retrofit-2-android/) 🇮🇩
+
 
 ## User Experience
 
@@ -117,12 +120,17 @@ See [how to contribue](#how-to-contribute)
 
 - [Bluetooth Low Energy on Android, Part 1](https://www.bignerdranch.com/blog/bluetooth-low-energy-part-1/?utm_source=Android+Weekly&utm_campaign=7ece125827-android-weekly-268&utm_medium=email&utm_term=0_4eb677ad19-7ece125827-338084081) 🇬🇧
 
+## Testing
+
+- [Android Testing Box: Various Testing Tools Sample](https://github.com/RoRoche/AndroidTestingBox) 🇬🇧
+
 ## Kotlin
 
-- [Collection of Useful Kotlin Resources](https://kotlin.link/) 🇬🇧
-- [100+ Resource To Learn Kotlin The Right Way](https://superkotlin.com/resources-learn-kotlin/) 🇬🇧
 - [Idiomatic Kotlin. Best Practice](https://blog.philipphauer.de/idiomatic-kotlin-best-practices/) 🇬🇧
 - [Clean Code Kotlin](https://blog.philipphauer.de/clean-code-kotlin/) 🇬🇧
+- [Collection of Useful Kotlin Resources](https://kotlin.link/) 🇬🇧
+- [100+ Resource To Learn Kotlin The Right Way](https://superkotlin.com/resources-learn-kotlin/) 🇬🇧
+- [Realm's Kotlin Learning Path](https://academy.realm.io/posts/learning-path-kotlin-in-depth) 🇬🇧 📹
 
 ## Development Tools
 
