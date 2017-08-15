@@ -129,6 +129,8 @@ See [how to contribue](#how-to-contribute)
 
 - [Idiomatic Kotlin. Best Practice](https://blog.philipphauer.de/idiomatic-kotlin-best-practices/) 🇬🇧
 - [Clean Code Kotlin](https://blog.philipphauer.de/clean-code-kotlin/) 🇬🇧
+- [Kotlin 101 - Constuctors](https://nolambda.stream/kotlin-101-consturctors/) 🇬🇧
+- [Kotlin 101 - Extension Functions](https://nolambda.stream/kotlin-101-extension-function/) 🇬🇧
 - [Collection of Useful Kotlin Resources](https://kotlin.link/) 🇬🇧
 - [100+ Resource To Learn Kotlin The Right Way](https://superkotlin.com/resources-learn-kotlin/) 🇬🇧
 - [Realm's Kotlin Learning Path](https://academy.realm.io/posts/learning-path-kotlin-in-depth) 🇬🇧 📹
