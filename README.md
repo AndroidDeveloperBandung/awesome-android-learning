@@ -102,6 +102,7 @@ See [how to contribue](#how-to-contribute)
 - [StylingAndroid - LiveData](https://blog.stylingandroid.com/architecture-components-livedata/) 🇬🇧
 - [StylingAndroid - ViewModel](https://blog.stylingandroid.com/architecture-components-viewmodel/) 🇬🇧
 - [Yigit Boyar - Architecture Components - Behind the Scenes](https://academy.realm.io/posts/360-andev-2017-yigit-boyar-android-architecture-components/) 📹
+- [Internet utility with AAC LiveData](https://medium.com/@Viraj.Tank/internet-utility-using-android-architecture-components-livedata-e828a0fcd3db) 🇬🇧
 
 ### MVVM Architecture
     
