@@ -101,6 +101,7 @@ See [how to contribue](#how-to-contribute)
 - [StylingAndroid - Lifecycle Component](https://blog.stylingandroid.com/architecture-components-lifecycle/) 🇬🇧
 - [StylingAndroid - LiveData](https://blog.stylingandroid.com/architecture-components-livedata/) 🇬🇧
 - [StylingAndroid - ViewModel](https://blog.stylingandroid.com/architecture-components-viewmodel/) 🇬🇧
+- [Yigit Boyar - Architecture Components - Behind the Scenes](https://academy.realm.io/posts/360-andev-2017-yigit-boyar-android-architecture-components/) 📹
 
 ### MVVM Architecture
     
