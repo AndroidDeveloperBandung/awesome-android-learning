@@ -58,11 +58,13 @@ See [how to contribue](#how-to-contribute)
 
 - [Retrofit Getting Started](https://futurestud.io/tutorials/retrofit-getting-started-and-android-client) 🇬🇧
 - [Mengeksekusi CRUP REST API dengan Retrofit 2](https://farizdotid.com/tutorial-crud-rest-api-menggunakan-retrofit-2-android/) 🇮🇩
+- [Certificate public key pinninng android retrofit 2](https://medium.com/@sreekumar_av/certificate-public-key-pinning-in-android-using-retrofit-2-0-74140800025b) 🇬🇧
 
 
 ## User Experience
 
 - [UberUx - Entire animation stack of Uber android app ](https://github.com/mohak1712/UberUX) 🐙
+- [Scrolling Behavior for AppBars Android](https://android.jlelse.eu/scrolling-behavior-for-appbars-in-android-41aff9c5c468?fref=gc) 🇬🇧
 
 ## Material Design
 
@@ -84,6 +86,7 @@ See [how to contribue](#how-to-contribute)
 - [Dependency Injection Made Simple](https://academy.realm.io/posts/daniel-lew-dependency-injection-dagger/) 🇬🇧 📹
 - [Demystifying the new Dagger Android Injection API](https://proandroiddev.com/exploring-the-new-dagger-android-module-9eb6075f1a46) 🇬🇧
 - [Understanding Dagger 2.11 on Android](https://www.youtube.com/watch?v=hjHZkZr3GZw) 📹
+- [Dagger 2.11 Component Builder](https://proandroiddev.com/dagger-2-component-builder-1f2b91237856) 🇬🇧
 ## Job Scheduler
 
 - [Android Job Priority Queue Github Link](https://github.com/yigit/android-priority-jobqueue) 🐙
@@ -99,6 +102,8 @@ See [how to contribue](#how-to-contribute)
 - [StylingAndroid - Lifecycle Component](https://blog.stylingandroid.com/architecture-components-lifecycle/) 🇬🇧
 - [StylingAndroid - LiveData](https://blog.stylingandroid.com/architecture-components-livedata/) 🇬🇧
 - [StylingAndroid - ViewModel](https://blog.stylingandroid.com/architecture-components-viewmodel/) 🇬🇧
+- [Yigit Boyar - Architecture Components - Behind the Scenes](https://academy.realm.io/posts/360-andev-2017-yigit-boyar-android-architecture-components/) 📹
+- [Internet utility with AAC LiveData](https://medium.com/@Viraj.Tank/internet-utility-using-android-architecture-components-livedata-e828a0fcd3db) 🇬🇧
 
 ### MVVM Architecture
     
