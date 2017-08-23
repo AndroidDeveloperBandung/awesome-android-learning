@@ -86,6 +86,7 @@ See [how to contribue](#how-to-contribute)
 - [Dependency Injection Made Simple](https://academy.realm.io/posts/daniel-lew-dependency-injection-dagger/) 🇬🇧 📹
 - [Demystifying the new Dagger Android Injection API](https://proandroiddev.com/exploring-the-new-dagger-android-module-9eb6075f1a46) 🇬🇧
 - [Understanding Dagger 2.11 on Android](https://www.youtube.com/watch?v=hjHZkZr3GZw) 📹
+- [Dagger 2.11 Component Builder](https://proandroiddev.com/dagger-2-component-builder-1f2b91237856) 🇬🇧
 ## Job Scheduler
 
 - [Android Job Priority Queue Github Link](https://github.com/yigit/android-priority-jobqueue) 🐙
