@@ -159,6 +159,7 @@ See [how to contribue](#how-to-contribute)
 - [Daftar API Lokal Indonesia](https://github.com/farizdotid/DAFTAR-API-LOKAL-INDONESIA)
 - [Android Weekly](http://androidweekly.net/)
 - [Tutorial Point](https://www.tutorialspoint.com/android/)
+- [Google Codelabs](https://codelabs.developers.google.com/)
 
 ---
 
