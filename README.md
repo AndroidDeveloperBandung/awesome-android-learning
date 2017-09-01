@@ -65,6 +65,8 @@ See [how to contribue](#how-to-contribute)
 
 - [UberUx - Entire animation stack of Uber android app ](https://github.com/mohak1712/UberUX) 🐙
 - [Scrolling Behavior for AppBars Android](https://android.jlelse.eu/scrolling-behavior-for-appbars-in-android-41aff9c5c468?fref=gc) 🇬🇧
+- [Material Design - Activity Transition](https://android.jlelse.eu/android-material-design-activity-transition-55de706ab967)🇬🇧
+- [Animate all the things transition](https://medium.com/@andkulikov/animate-all-the-things-transitions-in-android-914af5477d50)🇬🇧
 
 ## Material Design
 
