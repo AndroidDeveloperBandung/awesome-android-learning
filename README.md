@@ -72,6 +72,7 @@ See [how to contribue](#how-to-contribute)
 
 - [Material Design Training](https://developer.android.com/training/material/index.html) 🇬🇧 🌟
 - [Android Hive Material Design Category](https://www.androidhive.info/category/material-design/) 🇬🇧
+- [Material Design Documentation](https://materialdoc.com/components/autocomplete/) 🇬🇧
 
 ## RxJava
 
