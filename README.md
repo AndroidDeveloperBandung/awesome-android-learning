@@ -131,6 +131,7 @@ See [how to contribue](#how-to-contribute)
 ## Testing
 
 - [Android Testing Box: Various Testing Tools Sample](https://github.com/RoRoche/AndroidTestingBox) 🇬🇧
+- [Android Test Coverage with Jacoco and SonarQube](https://overflow.buffer.com/2017/01/16/android-test-sonarqube/) 🇬🇧
 
 ## Kotlin
 
