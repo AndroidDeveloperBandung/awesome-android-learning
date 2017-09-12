@@ -40,6 +40,7 @@ See [how to contribue](#how-to-contribute)
 - [Kotlin](#kotlin)
 - [Development Tools](#development-tools)
 - [Publishing](#publishing)
+- [Security](#security)
 
 ## Fundamental 
 
@@ -72,6 +73,7 @@ See [how to contribue](#how-to-contribute)
 
 - [Material Design Training](https://developer.android.com/training/material/index.html) 🇬🇧 🌟
 - [Android Hive Material Design Category](https://www.androidhive.info/category/material-design/) 🇬🇧
+- [Material Design Documentation](https://materialdoc.com/components/autocomplete/) 🇬🇧
 
 ## RxJava
 
@@ -152,6 +154,8 @@ See [how to contribue](#how-to-contribute)
 - [Bagaimana Cara Mengecilkan APK?](https://medium.com/@abangkis/bagaimana-cara-mengecilkan-apk-d7dbd4787321) 🇮🇩
 - [How to Upload Library to Manven or Jcenter as Dependency](https://inthecheesefactory.com/blog/how-to-upload-library-to-jcenter-maven-central-as-dependency/en) 🇬🇧
 
+## Security
+- [Memperkuat keamanan di android](https://butterflydroid.wordpress.com/2017/09/10/memperkuat-keamanan-di-sisi-aplikasi-mobile-android/) 🇮🇩
 ---
 
 ## Other Resources
