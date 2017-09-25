@@ -84,6 +84,7 @@ See [how to contribue](#how-to-contribute)
 - [Grokking RxJava 1.x Part 3: Reactive with Benefits](http://blog.danlew.net/2014/09/30/grokking-rxjava-part-3/) 🇬🇧
 - [Grokking RxJava 1.x Part 4: Reactive Android](http://blog.danlew.net/2014/10/08/grokking-rxjava-part-4/) 🇬🇧
 - [SOLID Android Analytics with RxJava2](https://proandroiddev.com/solid-android-analytics-with-rxjava2-6270ce8c26f9)
+- [RxJava Error Handling](https://rongi.github.io/kotlin-blog/rxjava/2017/09/25/breadcrumbs-rxjava-error-handling.html) 🇬🇧
 
 ## Dependency Injection
 
