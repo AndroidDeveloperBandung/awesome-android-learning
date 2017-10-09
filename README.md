@@ -36,6 +36,7 @@ See [how to contribue](#how-to-contribute)
 	- [Firebase Remote Config](#firebase)
 	- [Firebase Performance Monitoring](#firebase)
 - [Bluetooth](#bluetooth)
+- [Google Maps](#google-maps)
 - [Testing](#testing)
 - [Kotlin](#kotlin)
 - [Development Tools](#development-tools)
@@ -60,7 +61,6 @@ See [how to contribue](#how-to-contribute)
 - [Retrofit Getting Started](https://futurestud.io/tutorials/retrofit-getting-started-and-android-client) 🇬🇧
 - [Mengeksekusi CRUP REST API dengan Retrofit 2](https://farizdotid.com/tutorial-crud-rest-api-menggunakan-retrofit-2-android/) 🇮🇩
 - [Certificate public key pinninng android retrofit 2](https://medium.com/@sreekumar_av/certificate-public-key-pinning-in-android-using-retrofit-2-0-74140800025b) 🇬🇧
-
 
 ## User Experience
 
@@ -130,6 +130,12 @@ See [how to contribue](#how-to-contribute)
 ## Bluetooth
 
 - [Bluetooth Low Energy on Android, Part 1](https://www.bignerdranch.com/blog/bluetooth-low-energy-part-1/?utm_source=Android+Weekly&utm_campaign=7ece125827-android-weekly-268&utm_medium=email&utm_term=0_4eb677ad19-7ece125827-338084081) 🇬🇧
+
+## Google Maps
+
+- [Google Maps Utils](https://github.com/googlemaps/android-maps-utils)
+- [Direction Library](https://github.com/akexorcist/Android-GoogleDirectionLibrary)
+- [Tracking Library](https://github.com/frankodoom/MotionVehicleTracker)
 
 ## Testing
 
