@@ -84,6 +84,7 @@ See [how to contribue](#how-to-contribute)
 - [Grokking RxJava 1.x Part 3: Reactive with Benefits](http://blog.danlew.net/2014/09/30/grokking-rxjava-part-3/) 🇬🇧
 - [Grokking RxJava 1.x Part 4: Reactive Android](http://blog.danlew.net/2014/10/08/grokking-rxjava-part-4/) 🇬🇧
 - [SOLID Android Analytics with RxJava2](https://proandroiddev.com/solid-android-analytics-with-rxjava2-6270ce8c26f9)
+- [Keeping the Daggers Sharp](https://medium.com/square-corner-blog/keeping-the-daggers-sharp-%EF%B8%8F-230b3191c3f) 🇬🇧
 
 ## Dependency Injection
 
@@ -91,6 +92,7 @@ See [how to contribue](#how-to-contribute)
 - [Demystifying the new Dagger Android Injection API](https://proandroiddev.com/exploring-the-new-dagger-android-module-9eb6075f1a46) 🇬🇧
 - [Understanding Dagger 2.11 on Android](https://www.youtube.com/watch?v=hjHZkZr3GZw) 📹
 - [Dagger 2.11 Component Builder](https://proandroiddev.com/dagger-2-component-builder-1f2b91237856) 🇬🇧
+
 ## Job Scheduler
 
 - [Android Job Priority Queue Github Link](https://github.com/yigit/android-priority-jobqueue) 🐙
