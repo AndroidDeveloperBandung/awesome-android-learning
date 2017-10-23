@@ -1,6 +1,6 @@
 ## Awesome Android Learning
 
-> A curated list of Android related articles and resources available in English or Bahasa
+> A curated list of Android related articles and resources available in English or Bahasa Indonesia
 
 Your contribution is very encouraged and will highly appreciated! Every commit matters! 💪💪
 
@@ -36,6 +36,7 @@ See [how to contribue](#how-to-contribute)
 	- [Firebase Remote Config](#firebase)
 	- [Firebase Performance Monitoring](#firebase)
 - [Bluetooth](#bluetooth)
+- [Google Maps](#google-maps)
 - [Testing](#testing)
 - [Kotlin](#kotlin)
 - [Development Tools](#development-tools)
@@ -61,7 +62,6 @@ See [how to contribue](#how-to-contribute)
 - [Mengeksekusi CRUP REST API dengan Retrofit 2](https://farizdotid.com/tutorial-crud-rest-api-menggunakan-retrofit-2-android/) 🇮🇩
 - [Certificate public key pinninng android retrofit 2](https://medium.com/@sreekumar_av/certificate-public-key-pinning-in-android-using-retrofit-2-0-74140800025b) 🇬🇧
 
-
 ## User Experience
 
 - [UberUx - Entire animation stack of Uber android app ](https://github.com/mohak1712/UberUX) 🐙
@@ -85,6 +85,7 @@ See [how to contribue](#how-to-contribute)
 - [Grokking RxJava 1.x Part 4: Reactive Android](http://blog.danlew.net/2014/10/08/grokking-rxjava-part-4/) 🇬🇧
 - [SOLID Android Analytics with RxJava2](https://proandroiddev.com/solid-android-analytics-with-rxjava2-6270ce8c26f9)
 - [RxJava Error Handling](https://rongi.github.io/kotlin-blog/rxjava/2017/09/25/breadcrumbs-rxjava-error-handling.html) 🇬🇧
+- [Keeping the Daggers Sharp](https://medium.com/square-corner-blog/keeping-the-daggers-sharp-%EF%B8%8F-230b3191c3f) 🇬🇧
 
 ## Dependency Injection
 
@@ -92,6 +93,7 @@ See [how to contribue](#how-to-contribute)
 - [Demystifying the new Dagger Android Injection API](https://proandroiddev.com/exploring-the-new-dagger-android-module-9eb6075f1a46) 🇬🇧
 - [Understanding Dagger 2.11 on Android](https://www.youtube.com/watch?v=hjHZkZr3GZw) 📹
 - [Dagger 2.11 Component Builder](https://proandroiddev.com/dagger-2-component-builder-1f2b91237856) 🇬🇧
+
 ## Job Scheduler
 
 - [Android Job Priority Queue Github Link](https://github.com/yigit/android-priority-jobqueue) 🐙
@@ -131,6 +133,12 @@ See [how to contribue](#how-to-contribute)
 ## Bluetooth
 
 - [Bluetooth Low Energy on Android, Part 1](https://www.bignerdranch.com/blog/bluetooth-low-energy-part-1/?utm_source=Android+Weekly&utm_campaign=7ece125827-android-weekly-268&utm_medium=email&utm_term=0_4eb677ad19-7ece125827-338084081) 🇬🇧
+
+## Google Maps
+
+- [Google Maps Utils](https://github.com/googlemaps/android-maps-utils)
+- [Direction Library](https://github.com/akexorcist/Android-GoogleDirectionLibrary)
+- [Tracking Library](https://github.com/frankodoom/MotionVehicleTracker)
 
 ## Testing
 
