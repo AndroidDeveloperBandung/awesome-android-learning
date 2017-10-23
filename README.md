@@ -1,6 +1,6 @@
 ## Awesome Android Learning
 
-> A curated list of Android related articles and resources available in English or Bahasa
+> A curated list of Android related articles and resources available in English or Bahasa Indonesia
 
 Your contribution is very encouraged and will highly appreciated! Every commit matters! 💪💪
 
