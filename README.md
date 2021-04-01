@@ -28,7 +28,7 @@ See [how to contribute](#how-to-contribute)
 - [RxJava](#rxjava)
 - [Dependecy Injection](#dependency-injection)
 - [Job Scheduler](#job-scheduler)
-- [Design Pattern](#design-pattern)
+- [Design Pattern](#architecture--design-pattern)
     - [Android Architecture Component](#android-architecture-component)
     - [MVVM Architecture](#mvvm-architecture)
 - [Firebase](#firebase)
@@ -103,6 +103,7 @@ See [how to contribute](#how-to-contribute)
 
 - [Google's Sample for Android Architectures](https://github.com/googlesamples/android-architecture) 🐙
 - [Android Repository Design Pattern](https://medium.com/@krzychukosobudzki/repository-design-pattern-bc490b256006) 🇬🇧
+- [Clean Architecture, MVC, MVP notes](https://github.com/jemshit/android_architecture_notes) 🇬🇧
 
 ### Android Architecture Component
 
